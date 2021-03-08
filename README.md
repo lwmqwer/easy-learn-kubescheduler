@@ -14,6 +14,7 @@ Before starting this tutorial, you still need some prerequisites for it:
 
 
 ## 1. [Communicate with the kubernetes cluster](Chapter1/README.md)
+## 2. [Schedule a pod and notice the cluster](Chapter2/README.md)
 # Advance topics
 ## 1. [Metrics and logs]()
 ## 2. [Scheduler Cache and priority queue]()
